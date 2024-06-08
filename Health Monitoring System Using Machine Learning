@@ -1,0 +1,18 @@
+🔍 Health Monitoring System Using Machine Learning
+
+🛠️ Techniques Used:
+
+-Data Preprocessing: Handled missing values and scaled features using StandardScaler.
+-Model Building: Implemented a Random Forest classifier with 100 decision trees.
+-Model Evaluation: Evaluated the model's performance using classification report and accuracy score.
+
+💻 Technology Used:
+-Python: Programming language used for data processing and modeling.
+-Scikit-learn: Python library used for machine learning algorithms.
+-Pandas: Used for data manipulation and analysis.
+-Jupyter Notebook/Google Colab: Environment for code development and experimentation.
+
+📊 Results:
+The model achieved an accuracy score of [insert accuracy score here] on the test dataset, demonstrating its effectiveness in accurately classifying physical activities based on sensor data.
+
+🚀 This project showcases my proficiency in machine learning techniques and my ability to apply them to real-world problems. Looking forward to exploring more projects in the exciting field of AI and machine learning!
